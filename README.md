@@ -4,13 +4,13 @@
                _                            _ _ 
   _ __   ___ | |_ __ _ _ __   __ ___  __ | | |
  | '_ \ / _ \| __/ _` | '_ \ / _` \ \/ / |_|_|
- | | | | (_) | || (_| | | | | (_| |>  <  _ _ _ 
- |_| |_|\___/ \__\__,_|_| |_|\__, /_/\_\(_|_|_)
+ | | | | (_) | || (_| | | | | (_| |>  <  _ _ _  ____
+ |_| |_|\___/ \__\__,_|_| |_|\__, /_/\_\(_|_|_)|____|
                              |___/             
 ```
 </div>
 
-Hewo! I am **notangxl_**, a smol dev engineer that loves drinking RedBull. Feel free to come along.
+Hewo! I am **angxl**, a smol dev that loves drinking RedBull. Feel free to come along.
 
 </div>
 
@@ -20,7 +20,7 @@ name = "notangxl_"
 [self]
 age = 17
 locale = "es-AR"
-drink = "mate 🧉"
+drink = "mate🧉"
 icon = "🐇"
 
 [langs]
@@ -46,4 +46,4 @@ flavor = "Arch"
 
 ---
 
-xoxo.
+xoxo. <3
