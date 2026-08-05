@@ -10,7 +10,7 @@
 ```
 </div>
 
-Hewo! I am **angxl**, a smol dev that loves drinking RedBull. Feel free to come along.:3
+Hewo! I am **angxl**, a smol dev that loves drinking RedBull. Feel free to come along. :3
 
 </div>
 
@@ -24,8 +24,8 @@ drink = "mate🧉"
 icon = "🐇"
 
 [langs]
-fav = "Python"
-most_used = "GDScript"
+fav = "Rust"
+most_used = "Python"
 
 [os]
 kernel = "linux"
