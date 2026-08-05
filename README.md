@@ -10,7 +10,7 @@
 ```
 </div>
 
-Hewo! I am **angxl**, a smol dev that loves drinking RedBull. Feel free to come along.
+Hewo! I am **angxl**, a smol dev that loves drinking RedBull. Feel free to come along.:3
 
 </div>
 
@@ -32,7 +32,7 @@ kernel = "linux"
 flavor = "Arch"
 ```
 
-## Skills
+## Practicing (not rlly good)
 
 [![Godot](https://img.shields.io/badge/GODOT-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)](https://godotengine.org/)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
